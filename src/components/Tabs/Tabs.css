@@ -1,0 +1,5 @@
+.tablist {
+  display: flex;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+}
